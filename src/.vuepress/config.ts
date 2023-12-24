@@ -3,7 +3,7 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
-  base: "/CarVerse/",
+  base: "/",
 
   lang: "zh-CN",
   title: "文档演示",

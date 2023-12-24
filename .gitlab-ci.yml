@@ -19,8 +19,7 @@ pages:
     - corepack enable
     - corepack prepare pnpm@latest-8 --activate
     - pnpm config set store-dir .pnpm-store
-   # - wget -qO- https://get.pnpm.io/install.sh | sh -
-   # - pnpm config set store-dir .pnpm-store
+  
 
   # 安装依赖并运行构建脚本
   script:
