@@ -16,8 +16,8 @@ pages:
 
   # 安装 pnpm
   before_script:
-    - wget -qO- https://get.pnpm.io/install.sh | bash -
-    - pnpm config set store-dir .pnpm-store
+    - wget -qO- https://get.pnpm.io/install.sh
+   # - pnpm config set store-dir .pnpm-store
 
   # 安装依赖并运行构建脚本
   script:
