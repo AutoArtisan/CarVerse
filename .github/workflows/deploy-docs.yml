@@ -56,4 +56,4 @@ jobs:
           SOURCE: "./"
           REMOTE_HOST: ${{ vars.REMOTE_HOST }}    #阿里云的 ip
           REMOTE_USER: ${{ vars.REMOTE_USER }}    #阿里云用户
-          TARGET: "/home/kit"       #被部署的服务器路径 
+          TARGET: "/opt"       #被部署的服务器路径 
