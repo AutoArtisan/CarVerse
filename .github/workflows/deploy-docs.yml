@@ -49,7 +49,7 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
       - name: 部署阿里云
-        uses: easingthemes/ssh-deploy@v2.1.5
+        uses: easingthemes/ssh-deploy@v4.1.8
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}  #这个是阿里云的私钥
           ARGS: "-avzr --delete"
