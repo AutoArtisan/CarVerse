@@ -54,6 +54,6 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}  #这个是阿里云的私钥
           ARGS: "-avzr --delete"
           SOURCE: "./"
-          REMOTE_HOST: ${{ vars.REMOTE_HOST }}    #阿里云的 ip
-          REMOTE_USER: ${{ vars.REMOTE_USER }}    #阿里云用户
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}    #阿里云的 ip
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}    #阿里云用户
           TARGET: "/opt"       #被部署的服务器路径 
