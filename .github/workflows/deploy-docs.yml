@@ -1,5 +1,5 @@
 
-name: 部署文档
+name: CarVerse部署
 
 on:
   push:
@@ -48,3 +48,12 @@ jobs:
           # 这是文档部署到的分支名称
           branch: gh-pages
           folder: src/.vuepress/dist
+      - name: 部署阿里云
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}  #这个是阿里云的私钥
+          ARGS: "-avzr --delete"
+          SOURCE: "./"
+          REMOTE_HOST: ${{ vars.REMOTE_HOST }}    #阿里云的 ip
+          REMOTE_USER: ${{ vars.REMOTE_USER }}    #阿里云用户
+          TARGET: "/home/kit"       #被部署的服务器路径 
