@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/CarVerse/",
 
   lang: "zh-CN",
-  title: "文档演示",
+  title: "CarVerse（车韵）",
   description: "vuepress-theme-hope 的文档演示",
 
   theme,

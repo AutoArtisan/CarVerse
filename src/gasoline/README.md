@@ -1,6 +1,8 @@
 ---
 title: 燃油汽车
-icon: lightbulb
+icon: person-chalkboard
+category:
+  - 燃油汽车
 ---
 
 ## 功能亮点

@@ -1,6 +1,8 @@
 ---
 title: 新能源汽车
-icon: lightbulb
+icon: route
+category:
+  - 新能源汽车
 ---
 
 ## 这里普及新能源汽车

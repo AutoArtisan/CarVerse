@@ -1,7 +1,7 @@
 ---
 title: 基础知识
 index: true
-icon: laptop-code
+icon: box-archive
 category:
   - 使用指南
 ---

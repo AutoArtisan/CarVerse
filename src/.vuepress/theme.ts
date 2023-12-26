@@ -7,14 +7,15 @@ export default hopeTheme({
 
   author: {
     name: "CarVerse",
-    url: "https://mister-hope.com",
+    url: "",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  //logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+
+  repo: "AutoArtisan/CarVerse",
 
   docsDir: "src",
 
@@ -28,11 +29,11 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   // page meta
   metaLocales: {
