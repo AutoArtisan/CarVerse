@@ -4,5 +4,6 @@ export default sidebar({
   "/basics":"structure",
   "/gasoline":"structure",
   "/guide":"structure",
-  "/nevhicle":"structure"
+  "/nevhicle":"structure",
+  "/data":"structure"
 });
