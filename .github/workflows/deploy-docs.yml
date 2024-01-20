@@ -56,4 +56,4 @@ jobs:
           SOURCE: "src/.vuepress/dist/*"
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}    #阿里云的 ip
           REMOTE_USER: ${{ secrets.REMOTE_USER }}    #阿里云用户
-          TARGET: "/home/kit/CarVerse"       #被部署的服务器路径 
+          TARGET: "/home/kit/carverse"       #被部署的服务器路径 
