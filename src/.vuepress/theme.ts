@@ -38,8 +38,7 @@ export default hopeTheme({
   contributors: false,
   // page meta
   metaLocales: {
-    editLink: "测试GitHub 上编辑此页",
-    
+    editLink: "在GitHub 上编辑此页",
   },
   plugins: {
     // You should generate and use your own comment service
