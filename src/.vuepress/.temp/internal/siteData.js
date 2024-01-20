@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/CarVerse/\",\"lang\":\"zh-CN\",\"title\":\"CarVerse（车韵）\",\"description\":\"vuepress-theme-hope 的文档演示\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/carverse/\",\"lang\":\"zh-CN\",\"title\":\"CarVerse（车韵）\",\"description\":\"vuepress-theme-hope 的文档演示\",\"head\":[],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
