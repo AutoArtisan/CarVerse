@@ -34,12 +34,12 @@ export default hopeTheme({
   //     "/demo/encrypt.html": ["1234"],
   //   },
   // },
-
+  //设置页面贡献者
+  contributors: false,
   // page meta
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "在GitHub 上编辑此页",
   },
-
   plugins: {
     // You should generate and use your own comment service
     comment: {
