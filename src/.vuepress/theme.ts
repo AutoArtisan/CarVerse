@@ -38,7 +38,7 @@ export default hopeTheme({
   contributors: false,
   // page meta
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "测试GitHub 上编辑此页",
     
   },
   plugins: {
