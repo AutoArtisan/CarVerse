@@ -34,6 +34,7 @@ export default hopeTheme({
   //     "/demo/encrypt.html": ["1234"],
   //   },
   // },
+  //设置页面贡献者
   contributors: false,
   // page meta
   metaLocales: {
