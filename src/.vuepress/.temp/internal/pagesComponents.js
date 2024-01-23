@@ -19,8 +19,12 @@ export const pagesComponents = {
   "v-94427752": defineAsyncComponent(() => import(/* webpackChunkName: "v-94427752" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/SUV还是轿车.html.vue")),
   // path: /guide/%E4%B9%B0%E4%B8%8D%E4%B9%B0%E6%B1%BD%E8%BD%A6.html
   "v-5a352c17": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a352c17" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/买不买汽车.html.vue")),
+  // path: /guide/%E4%BA%B2%E6%B0%91%E5%93%81%E7%89%8C%E8%BF%98%E6%98%AF%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C.html
+  "v-0735580b": defineAsyncComponent(() => import(/* webpackChunkName: "v-0735580b" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/亲民品牌还是高端品牌.html.vue")),
   // path: /guide/%E5%A4%A7%E8%BD%A6%E8%BF%98%E6%98%AF%E5%B0%8F%E8%BD%A6.html
   "v-4addfa3b": defineAsyncComponent(() => import(/* webpackChunkName: "v-4addfa3b" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/大车还是小车.html.vue")),
+  // path: /guide/%E5%B0%8F%E7%99%BD%E9%80%89%E8%BD%A6.html
+  "v-670150e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-670150e0" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/小白选车.html.vue")),
   // path: /guide/%E6%B2%B9%E8%BD%A6%E8%BF%98%E6%98%AF%E7%94%B5%E8%BD%A6.html
   "v-39ca5d8c": defineAsyncComponent(() => import(/* webpackChunkName: "v-39ca5d8c" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/油车还是电车.html.vue")),
   // path: /nevhicle/
