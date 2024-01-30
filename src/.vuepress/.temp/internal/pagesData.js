@@ -13,8 +13,6 @@ export const pagesData = {
   "v-e8ab0dd8": () => import(/* webpackChunkName: "v-e8ab0dd8" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/data/电动车自燃统计.html.js").then(({ data }) => data),
   // path: /gasoline/
   "v-ed6e4e28": () => import(/* webpackChunkName: "v-ed6e4e28" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/gasoline/index.html.js").then(({ data }) => data),
-  // path: /idata/%E7%89%B9%E6%96%AF%E6%8B%89.html
-  "v-63990f92": () => import(/* webpackChunkName: "v-63990f92" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/idata/特斯拉.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
   // path: /guide/SUV%E8%BF%98%E6%98%AF%E8%BD%BF%E8%BD%A6.html
@@ -35,6 +33,8 @@ export const pagesData = {
   "v-6d7f5acc": () => import(/* webpackChunkName: "v-6d7f5acc" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/nevhicle/index.html.js").then(({ data }) => data),
   // path: /nevhicle/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B%E7%B1%BB%E5%9E%8B.html
   "v-46bd7294": () => import(/* webpackChunkName: "v-46bd7294" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/nevhicle/电动汽车包括哪些类型.html.js").then(({ data }) => data),
+  // path: /idata/%E7%89%B9%E6%96%AF%E6%8B%89.html
+  "v-63990f92": () => import(/* webpackChunkName: "v-63990f92" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/idata/特斯拉.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/yeekit/Documents/workspace/VuePress/CarVerse/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /idata/
